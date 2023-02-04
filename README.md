@@ -3,3 +3,5 @@
 개발환경 : 파이썬 3.7
 
 pip install -r requirements.txt 후 실행
+
+
